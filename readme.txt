@@ -1,4 +1,4 @@
-Deployed at: https://sinatra.herokuapp.com/
+Deployed at: https://sinatraumang.herokuapp.com/
 
 credentials to login to website:
 username: vinay
